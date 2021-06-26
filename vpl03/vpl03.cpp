@@ -125,7 +125,9 @@ int main(){
 
     std::cout << *(num_ptr - 4) << std::endl;
     
-    return 0;
+    return 10;
 }
 
 //FIM
+
+//Teste aprendendo GIT
